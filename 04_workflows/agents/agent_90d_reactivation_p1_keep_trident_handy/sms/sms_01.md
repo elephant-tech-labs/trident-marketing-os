@@ -1,9 +1,9 @@
 # SMS 1
 
-Asset name: Agent Reactivation | S2 | Final Reachability Reminder
+Agent Reactivation | S1 | Save Trident Number
 
 Copy:
 
 ```text
-$[UD:FIRST_NAME||]$, keep Trident saved for inspection timing, sewer, mold, chimney, pest, termite, and client questions. Call or text 949-294-1188 when timing matters.
+Hi $[UD:FIRST_NAME||]$, quick note from Trident. Save 949-294-1188 so we’re easy to reach for inspection availability, specialty services, or client questions.
 ```
