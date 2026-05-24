@@ -1,10 +1,10 @@
 # Email 1
 
-Asset name: TBD
+Asset name: Agent 90D+ Reactivation | E1 | Keep Trident Easy To Reach
 
-Subject: TBD
+Subject: Keeping Trident easy to reach
 
-Preheader: TBD
+Preheader: Inspection timing, specialty services, and client questions through one team.
 
 CTA: TBD
 
