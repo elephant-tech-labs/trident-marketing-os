@@ -5,5 +5,5 @@ Asset name: Termite WDO Findings | S3 | Final Financing Reminder
 Copy:
 
 ```text
-TBD
+$[UD:FIRST_NAME||]$, final quick note from Trident Pest Control. If WDO work is still open at $[UD:ADDRESS||]$, financing options may be available for qualifying treatment or repairs. Call/text 949-294-1188. Reply STOP to opt out.
 ```
