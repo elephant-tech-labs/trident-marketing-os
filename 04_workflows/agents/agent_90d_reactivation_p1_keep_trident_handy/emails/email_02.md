@@ -1,10 +1,10 @@
 # Email 2
 
-Asset name: TBD
+Asset name: Agent 90D+ Reactivation | E2 | One Team Fewer Moving Parts
 
-Subject: TBD
+Subject: One team for inspection coordination
 
-Preheader: TBD
+Preheader: Inspection, sewer, mold, chimney, pest, termite, and more through Trident.
 
 CTA: TBD
 
