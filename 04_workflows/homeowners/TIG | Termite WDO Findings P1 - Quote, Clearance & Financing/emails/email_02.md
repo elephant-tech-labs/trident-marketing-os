@@ -2,7 +2,7 @@
 
 Asset name: Termite WDO Findings | E2 | What Happens Next + Financing Options
 
-Subject: What happens after termite findings show up
+Subject: A simpler next step after termite findings
 
 Preheader: Treatment, repair, documentation, and financing options in plain English.
 
@@ -34,6 +34,6 @@ If this is tied to a transaction, we can help with the paperwork or clearance pr
 
 No pressure. The goal is simply to help you understand the findings and decide the right next step.
 ```
-CTA: Get WDO Next Steps
+CTA: Review My WDO Options
 
 Notes:

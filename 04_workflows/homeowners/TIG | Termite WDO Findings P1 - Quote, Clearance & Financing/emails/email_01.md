@@ -7,7 +7,7 @@ Subject: Termite/WDO work still pending? Financing options are now available
 Preheader: Trident can help with WDO next steps, quote options, documentation, and financing for qualifying work.
 
 COPY: 
-```text
+```
 
 Hi $[UD:FIRST_NAME||]$,
 
@@ -41,6 +41,7 @@ If you still need help understanding the report, getting a quote, scheduling ter
 CTA: Request WDO Quote & Financing Options
 
 CTA note
+Includes quote, treatment, documentation, and financing options for qualifying work.
 Prefer to talk it through? Call or text 949-294-1188, or reply to this email.
 
 Notes:
