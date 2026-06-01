@@ -1,11 +1,11 @@
 # Email 2
 
-Asset name: TBD
+Asset name: PU-HO | 2 | Post-Inspection Pest | Pre-2025 Homes | E2 | Inspection Review And Risk Areas
 
-Subject: TBD
+Subject: $[FNAME|Customer]$, we did your home inspection on $[UD:LAST_INSPECTION||]$ — quick recommendation based on report
 
-Preheader: TBD
+Preheader: Minor risk points found - simple checks stop pests from getting comfortable.
 
-CTA: TBD
+CTA: Book My Free Pest Inspection
 
-Notes:
+Notes: request call back link cta
