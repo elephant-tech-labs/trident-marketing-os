@@ -1,0 +1,28 @@
+Subject: What a Trident pest check covers
+
+Hi $[UD:FIRST_NAME||]$,
+
+We recently shared the option of scheduling a general pest check for $[UD:ADDRESS||]$.
+
+The purpose is straightforward: review common areas where pests may enter or find favorable conditions, then explain whether any ongoing service would be useful for the property.
+
+A general pest check can include:
+
+- Foundation lines and exterior perimeter
+- Vents and crawl-access points
+- Garage-door and utility-line gaps
+- Doors, windows, and exterior openings
+- Moisture-prone areas
+- Other common pest pathways
+
+A pest check does not obligate you to begin service. If you choose to start pest service, your first service is complimentary.
+
+Book My Pest Check:
+https://YOUR_PEST_BOOKING_FORM_LINK_HERE?utm_source=zoho_campaigns&utm_medium=email&utm_campaign=post_report_pest_enrollment_p1&utm_content=email_2_cta&source=post_report_pest_e2
+
+Questions before booking? Reply with PEST or call/text 949-294-1188.
+
+Trident Inspection Group
+2430 N Glassell St Ste L, Orange, CA 92865
+
+Unsubscribe: http://$[LI:UNSUBSCRIBE]$

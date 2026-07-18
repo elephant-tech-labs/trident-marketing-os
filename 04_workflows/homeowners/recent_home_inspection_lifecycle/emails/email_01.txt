@@ -1,0 +1,21 @@
+Subject: One practical next step for $[UD:ADDRESS||]$
+
+Hi $[UD:FIRST_NAME||]$,
+
+Trident inspected the property at $[UD:ADDRESS||]$ on $[UD:LAST_INSPECTION||]$. We wanted to make you aware of another way our team can help as you move forward with the property.
+
+A general pest check can be a practical next step. Our pest team can review common entry points and conditions around the property, including foundation lines, vents, crawl access, garage gaps, exterior openings, and moisture-prone areas.
+
+This is simply an optional property-care service. There is no pressure to move forward.
+
+If you choose to start pest service, your first service is complimentary.
+
+Book My Pest Check:
+https://YOUR_PEST_BOOKING_FORM_LINK_HERE?utm_source=zoho_campaigns&utm_medium=email&utm_campaign=post_report_pest_enrollment_p1&utm_content=email_1_cta&source=post_report_pest_e1
+
+Questions first? Reply with PEST or call/text 949-294-1188.
+
+Trident Inspection Group
+2430 N Glassell St Ste L, Orange, CA 92865
+
+Unsubscribe: http://$[LI:UNSUBSCRIBE]$

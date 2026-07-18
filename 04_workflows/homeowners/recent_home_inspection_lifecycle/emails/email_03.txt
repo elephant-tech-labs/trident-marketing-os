@@ -1,0 +1,23 @@
+Subject: We will leave this pest service option with you
+
+Hi $[UD:FIRST_NAME||]$,
+
+We wanted to close the loop on the pest check option we shared following Trident's inspection of $[UD:ADDRESS||]$.
+
+If a general pest check would be useful, our team can review common entry points around the property, answer your questions, and explain whether pest service makes sense.
+
+If you choose to start pest service, your first service is complimentary.
+
+Book My Pest Check:
+https://YOUR_PEST_BOOKING_FORM_LINK_HERE?utm_source=zoho_campaigns&utm_medium=email&utm_campaign=post_report_pest_enrollment_p1&utm_content=email_3_cta&source=post_report_pest_e3
+
+You can also reply with PEST or call/text 949-294-1188.
+
+If now is not the right time, no action is needed. We will leave the option with you and end this short pest follow-up here.
+
+Thank you again for trusting Trident with the property inspection.
+
+Trident Inspection Group
+2430 N Glassell St Ste L, Orange, CA 92865
+
+Unsubscribe: http://$[LI:UNSUBSCRIBE]$
